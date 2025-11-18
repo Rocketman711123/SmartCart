@@ -1,0 +1,7 @@
+{
+  "name": "SmartCart",
+  "description": "A next-level shopping list app with intelligent features like auto-categorization, purchase prediction, and a pantry tracker to suggest items you might be running low on.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
